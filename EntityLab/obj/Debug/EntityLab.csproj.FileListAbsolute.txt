@@ -1,0 +1,12 @@
+C:\Users\trosh\source\repos\EntityLab\EntityLab\obj\Debug\EntityLab.csprojResolveAssemblyReference.cache
+C:\Users\trosh\source\repos\EntityLab\EntityLab\obj\Debug\EntityLab.csproj.CoreCompileInputs.cache
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityLab.exe.config
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityLab.exe
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityLab.pdb
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityFramework.dll
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityFramework.xml
+C:\Users\trosh\source\repos\EntityLab\EntityLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trosh\source\repos\EntityLab\EntityLab\obj\Debug\EntityLab.csproj.CopyComplete
+C:\Users\trosh\source\repos\EntityLab\EntityLab\obj\Debug\EntityLab.exe
+C:\Users\trosh\source\repos\EntityLab\EntityLab\obj\Debug\EntityLab.pdb
